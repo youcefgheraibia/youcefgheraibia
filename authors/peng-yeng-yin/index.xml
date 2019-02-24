@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng-Yeng YIN on Youcef Gheraibia</title>
+    <link>/authors/peng-yeng-yin/</link>
+    <description>Recent content in Peng-Yeng YIN on Youcef Gheraibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Youecf Gheraibia 2019.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/peng-yeng-yin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PeSOA: Penguins Search Optimisation Algorithm for Global Optimisation Problems </title>
+      <link>/publication/iajit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iajit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>    <item>
+      <title>Penguins Search Optimisation Algorithm For Association Rules Mining</title>
+      <link>/publication/cit/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

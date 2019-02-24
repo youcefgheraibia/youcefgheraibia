@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smaine Mazouzi on Youcef Gheraibia</title>
+    <link>/authors/smaine-mazouzi/</link>
+    <description>Recent content in Smaine Mazouzi on Youcef Gheraibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Youecf Gheraibia 2019.</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/smaine-mazouzi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimised Cost Considering Huffman Code for Biological Data Compression</title>
+      <link>/publication/ijict/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ijict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

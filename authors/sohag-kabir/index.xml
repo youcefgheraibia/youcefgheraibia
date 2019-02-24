@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sohag Kabir on Youcef Gheraibia</title>
+    <link>/authors/sohag-kabir/</link>
+    <description>Recent content in Sohag Kabir on Youcef Gheraibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Youecf Gheraibia 2019.</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/sohag-kabir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Overview of the Approaches for Automotive Safety Integrity Levels Allocation</title>
+      <link>/publication/survey2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/survey2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PeSeed: Penguin Search Algorithm for Finding Optimal Spaced Seeds in Biological Sequences Matching</title>
+      <link>/publication/ijsci/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ijsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimised Cost Considering Huffman Code for Biological Data Compression</title>
+      <link>/publication/ijict/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ijict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ant colony algorithm for automotive safety integrity level allocation</title>
+      <link>/publication/applied-intelligence/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/applied-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pe-DFA: Penguins Search Optimisation Algorithm for DNA Fragment Assembly</title>
+      <link>/publication/ijamc/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ijamc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penguins Search Optimisation Algorithm For Association Rules Mining</title>
+      <link>/publication/cit/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/cit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

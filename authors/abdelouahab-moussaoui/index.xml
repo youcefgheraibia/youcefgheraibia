@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdelouahab Moussaoui on Youcef Gheraibia</title>
+    <link>/authors/abdelouahab-moussaoui/</link>
+    <description>Recent content in Abdelouahab Moussaoui on Youcef Gheraibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Youecf Gheraibia 2019.</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/abdelouahab-moussaoui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PeSOA: Penguins Search Optimisation Algorithm for Global Optimisation Problems </title>
+      <link>/publication/iajit/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iajit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimised Cost Considering Huffman Code for Biological Data Compression</title>
+      <link>/publication/ijict/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ijict/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

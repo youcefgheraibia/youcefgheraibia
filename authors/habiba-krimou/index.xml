@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Habiba Krimou on Youcef Gheraibia</title>
+    <link>/authors/habiba-krimou/</link>
+    <description>Recent content in Habiba Krimou on Youcef Gheraibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Youecf Gheraibia 2019.</copyright>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/habiba-krimou/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Overview of the Approaches for Automotive Safety Integrity Levels Allocation</title>
+      <link>/publication/survey2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/survey2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ant colony algorithm for automotive safety integrity level allocation</title>
+      <link>/publication/applied-intelligence/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/applied-intelligence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

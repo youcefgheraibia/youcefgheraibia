@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Youcef Gheraibia</title>
+    <link>/authors/admin/</link>
+    <description>Recent content in admin on Youcef Gheraibia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Youecf Gheraibia 2019.</copyright>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/admin/</guid>
+      <description>An award-winning researcher (National Innovation Award) with over 10 years of experience. Currently working as a Research Associate in the EU H2020 funded DEIS (Dependability Engineering Innovation for Cyber Physical Systems) project at the University of Hull. I received my Phd in Data processing from the University of Annaba (Algeria) in 2016.
+I&amp;rsquo;m particularly interested in artificial intelligence for road safety and logistics including machine learning, optimization, data analysis and Model-based Safety Assessment of safety critical systems.</description>
+    </item>
+    
+  </channel>
+</rss>
